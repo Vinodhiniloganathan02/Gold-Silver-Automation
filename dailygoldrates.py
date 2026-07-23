@@ -58,13 +58,13 @@ COLLECTION_NAME = "Prices"
 
 # ---------------- GREEN API ----------------
 
-ID_INSTANCE = "710722684359"
-API_TOKEN = "4bc11612f8a947b0a45589addbd966c76b6dbbb8e8df425fb8"
+ID_INSTANCE = "710722687781"
+API_TOKEN = "d01b99f529d547e3be8e993b03a46eb7237fe6ca5e104d7282"
 MEDIA_URL = "https://7107.api.greenapi.com"
 
 # Receiver Number
 
-CHAT_ID = "919940183025@c.us"
+CHAT_ID = "120363411135889694@g.us"
 
 
 # ==========================================================
@@ -527,8 +527,8 @@ def send_whatsapp(image_path):
         f"/sendFileByUpload/{API_TOKEN}"
     )
 
-    print("Sender   : 8248477398")
-    print("Receiver : 9940183025")
+    print("Sender   : 9940183025")
+    print("Receiver : SMS gold rate daily stories")
     print()
 
     try:
@@ -731,9 +731,9 @@ def automation():
 
         print()
 
-        print("Sender   : 8248477398")
+        print("Sender   : 9940183025")
 
-        print("Receiver : 9940183025")
+        print("Receiver : SM gold rate daily stories")
 
         print()
 
