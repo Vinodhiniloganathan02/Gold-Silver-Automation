@@ -2,7 +2,7 @@ name: Gold Silver Automation
 
 on:
   schedule:
-    - cron: '50 4 * * *'   # Runs daily at 10:20 AM IST
+    - cron: '*/5 * * * *'
 
   workflow_dispatch:
 
